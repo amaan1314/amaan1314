@@ -1,7 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-# 💫 About Me:
 🚀 Data Science Student | Engineering Fresher<br><br>Passionate about uncovering insights from data and building scalable solutions.<br><br>🛠 Tech Stack: Python, MySQL, Pandas, NumPy, and Web Development.<br><br>💼 Experience: Former Data Science Intern at SkillCraft Technology.<br><br>🎓 Education: Pursuing B.Tech in Engineering.
 
 
